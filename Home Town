@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Hometown</title>
+
+<style>
+body {
+background-color: lightyellow;
+color: blue;
+}
+</style>
+
+</head>
+
+<body>
+
+<h1>My Home Town</h1>
+<p>This is my hometown.</p>
+
+<img src="town.jpg" width="300">
+
+</body>
+</html>
