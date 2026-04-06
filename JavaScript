@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Area</title>
+</head>
+
+<body>
+
+<script>
+let l = parseFloat(prompt("Enter length"));
+let w = parseFloat(prompt("Enter width"));
+
+if (isNaN(l) || isNaN(w)) {
+alert("Invalid input");
+} else {
+alert("Area = " + (l * w));
+}
+</script>
+
+</body>
+</html>
