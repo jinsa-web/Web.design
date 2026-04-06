@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>College</title>
+</head>
+
+<body>
+
+<h1 align="center">ABC College</h1>
+
+<h2>Departments</h2>
+<ul>
+<li>Computer Science</li>
+<li>Commerce</li>
+<li>Mathematics</li>
+</ul>
+
+<h2>Courses</h2>
+<ol>
+<li>BSc</li>
+<li>BCom</li>
+</ol>
+
+<h2>Facilities</h2>
+<ul>
+<li>Library</li>
+<li>Labs</li>
+</ul>
+
+<a href="https://www.example.com">Visit Website</a>
+
+</body>
+</html>
