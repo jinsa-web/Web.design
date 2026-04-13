@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Profile</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            background-color: lightgray;
+            text-align: center;
+        }
+
+        .profile {
+            background-color: white;
+            width: 60%;
+            margin: auto;
+            padding: 20px;
+            border: 2px solid black;
+        }
+
+        img {
+            width: 150px;
+            height: 150px;
+        }
+
+        ul {
+            text-align: left;
+            display: inline-block;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="profile">
+
+        <h1>Jinsa</h1>
+
+        <img src="student.jpg" alt="Student Photo">
+
+        <h2>Course Details</h2>
+        <p>Course: B.Tech Computer Science</p>
+        <p>College: XYZ College</p>
+        <p>Year: 2nd Year</p>
+
+        <h2>Skills</h2>
+        <ul>
+            <li>C Programming</li>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Python</li>
+        </ul>
+
+        <h2>Contact Details</h2>
+        <p>Email: <a href="mailto:jinsa@example.com">jinsa@example.com</a></p>
+        <p>Phone: <a href="tel:1234567890">1234567890</a></p>
+
+    </div>
+
+</body>
+</html>
